@@ -31,3 +31,25 @@ Open the terminal in the week01 folder and execute:
 `bash
 javac FirstProgram.java
 java FirstProgram
+
+
+## Week 2 Practical: Development Environment and First Java Program
+
+### Objective
+To set up the Java development environment and create, compile, and execute a Java program.
+
+### Program
+week02/HelloWorld.java
+
+The program displays:
+1. Course code and title.
+2. Programme of study.
+3. Week number and topic.
+4. Personal learning goal.
+
+### How to Run
+Open the terminal in the week02 folder and execute:
+
+`bash
+javac HelloWorld.java
+java HelloWorld
