@@ -53,3 +53,27 @@ Open the terminal in the week02 folder and execute:
 `bash
 javac HelloWorld.java
 java HelloWorld
+
+
+## Week 3 Practical: Variables, Data Types, Expressions and Input/Output
+
+### Objective
+To understand Java variables, data types, expressions, operators and user input using Scanner.
+
+### Programs
+1. week03/SimpleCalculator.java - Performs basic arithmetic operations and handles division by zero.
+2. week03/AverageCalculator.java - Accepts a student's name and three scores, then calculates the total and average.
+3. week03/ItemCost.java - Accepts an item name, quantity and unit price, then calculates the total cost.
+
+### How to Run
+Open the terminal in the week03 folder and compile and run each program:
+
+`bash
+javac SimpleCalculator.java
+java SimpleCalculator
+
+javac AverageCalculator.java
+java AverageCalculator
+
+javac ItemCost.java
+java ItemCost
